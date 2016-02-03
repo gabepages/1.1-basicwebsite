@@ -1,0 +1,149 @@
+body {
+	text-align: center;
+	background: black;
+	
+}
+
+h1 {
+	text-align: center;
+	display: inline-block;
+	color: #ae9;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+
+h2 {
+	margin: 0px;
+	text-align: center;
+	color: #f5e;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+h1, h2{
+	padding: 10px;
+}
+
+.nav-links {
+	text-align: center;
+	width: 800px;
+	margin: 0 auto;
+	list-style-type: none;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+.nav-link {
+	display: inline-block;
+	border: 4px solid #999;
+	width: 200px;
+	text-align: center;
+	padding: 10px;
+}
+
+.nav-link a{
+	text-decoration: none;
+	color: #6ae;
+}
+p {
+	color: #afa;
+	font-weight: bold;
+	font-size: 25px;
+
+
+}
+
+#warning {
+	color: #f00;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+img {
+	display: inline-block;
+	width: 50%;
+	padding: 20%;
+	margin: 15px 30% 15px 30%;
+
+}
+
+.pictures {
+	margin: 0 auto;
+	padding: 40px;
+	
+}
+
+#picture-1 {
+	border: 10px solid #a355d9;
+	padding: 10px;
+	
+
+}
+
+#picture-2{
+	border:10px solid #d5f233;
+	padding: 10px;
+	
+}
+
+#picture-3{
+	border:10px solid #88c577;
+	padding: 10px;
+	
+}
+
+#picture-4{
+	border:10px solid #22a9f2;
+	padding: 10px;
+
+}
+
+canvas {
+	position: absolute;
+	padding: 10px;
+	background: repeat;
+
+}
+
+header{
+	display: inline-block;
+}
+header img{
+	margin: 0px;
+	padding: 0px; 
+	width: 150px;
+	height: 100px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
